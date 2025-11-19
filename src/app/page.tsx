@@ -1,5 +1,5 @@
-import Navbar from "./components/Navbar";
+import Sections from "./components/Sections/LSections";
 
 export default function Home() {
-  return <Navbar />;
+  return <Sections />;
 }
